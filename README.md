@@ -22,22 +22,22 @@ This project includes full EDA, model training, and a Flask web application for 
 **📂 Project Structure**
 Movie-Box-Office-Gross-Prediction-Using-Machine-Learning/
 │
-├── static/                         # CSS, images, JS
-├── templates/                      # HTML templates for Flask UI
+├── static/                        
+├── templates/                      
 │
-├── EDA.ipynb                       # Exploratory Data Analysis notebook
-├── main.ipynb                      # Model training and evaluation
+├── EDA.ipynb                       
+├── main.ipynb                    
 │
-├── app.py                          # Flask application
+├── app.py
 │
-├── revenue_prediction_model.pkl    # Trained ML model
-├── genre_label_encoder.pkl         # Label encoder for genre
-├── scaler.pkl                      # Scaler for numerical features
+├── revenue_prediction_model.pkl    
+├── genre_label_encoder.pkl        
+├── scaler.pkl                     
 │
-├── tmdb_5000_movies.csv            # Dataset 1
-├── tmdb_5000_credits.csv           # Dataset 2
+├── tmdb_5000_movies.csv            
+├── tmdb_5000_credits.csv         
 │
-└── README.md                       # Project documentation
+└── README.md                     
 
 **🚀 How It Works**
 1. Data Preprocessing
